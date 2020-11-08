@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1602250443 source:c:\users\anusha\desktop\mini_project\src\game.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	<time.h>
+
+1602250050 source:c:\users\anusha\desktop\mini_project\rpsgame\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"game.h"
+	"test_game.h"
+
+1602248989 c:\users\anusha\desktop\mini_project\inc\game.h
+
+1602253949 source:c:\users\anusha\desktop\mini_project\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1602253442 source:c:\users\anusha\desktop\mini_project\test\test_game.c
+	"unity.h"
+	"unity_internal.h"
+	"game.h"
+
+1602249892 c:\users\anusha\desktop\mini_project\unity\unity.h
+	"unity_internal.h"
+
+1602249590 c:\users\anusha\desktop\mini_project\unity\unity_internal.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1602249815 c:\users\anusha\desktop\mini_project\test\test_game.h
+
